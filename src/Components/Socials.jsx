@@ -2,7 +2,7 @@ import React from 'react'
 
 function Socials() {
     return (
-        <div className='bg-slate-950 rounded-b-xl h-16 flex justify-center space-x-8 items-center'>
+        <div className='bg-slate-900 rounded-b-xl h-16 flex justify-center space-x-8 items-center'>
             <a href="https://twitter.com/roblesbraun" className='text-slate-100'>
                 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" className='w-7' fill='currentColor'>
                     <title>Twitter</title>
