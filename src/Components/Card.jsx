@@ -5,7 +5,7 @@ import Socials from './Socials'
 
 function Card() {
     return (
-        <div className='w-80 bg-slate-900 rounded-xl shadow-2xl'>
+        <div className='w-80 bg-slate-800 rounded-xl shadow-2xl'>
             <Header />
             <About />
             <Interests />
